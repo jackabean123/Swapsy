@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "688279132313",
+    "firebase_url": "https://swapsy-dev.firebaseio.com",
+    "project_id": "swapsy-dev",
+    "storage_bucket": "swapsy-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688279132313:android:170093f310e33ecc",
+        "android_client_info": {
+          "package_name": "com.swapsy.jack.swapsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688279132313-6jumai20m2lep6568omla5k3nfj1v3fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swapsy.jack.swapsy",
+            "certificate_hash": "8e9fcbceb3742b108f70fae27cbe9f1b24412bdf"
+          }
+        },
+        {
+          "client_id": "688279132313-h6pckqahp1o18jp36iouto7sg3h3099b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_hdexZjbVOG3_fChNESHQFuh2Zudjrkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688279132313-h6pckqahp1o18jp36iouto7sg3h3099b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
